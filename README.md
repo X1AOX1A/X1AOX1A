@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=LrYjRNYAAAAJ&hl">Google Scholar</a> &nbsp;|&nbsp;
   <a href="mailto:liyixia@me.com">liyixia@me.com</a> &nbsp;|&nbsp;
-  <a href="https://liyixia.me">iyixia.me</a>
+  <a href="https://liyixia.me">liyixia.me</a>
 </p>
 
 
