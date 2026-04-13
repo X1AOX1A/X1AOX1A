@@ -15,7 +15,7 @@ I am a Ph.D. candidate at **Southern University of Science and Technology**, sup
 **Research Interests**
 
 - **Agentic Learning** — Experiential Learning; LLM-as-World-Model ([*From Word to World*](https://arxiv.org/abs/2512.18832))
-- **LLM Post-training** — LLM Reasoning (*SPPO*, [*CFT*](https://arxiv.org/abs/2510.10974)); Multi-Modal & Multi-lingual ([*LayAlign*](https://www.arxiv.org/abs/2502.11405), *VFA*)
+- **LLM Post-training** — LLM Reasoning ([*SPPO*](https://arxiv.org/abs/2604.08865), [*CFT*](https://arxiv.org/abs/2510.10974)); Multi-Modal & Multi-lingual ([*LayAlign*](https://www.arxiv.org/abs/2502.11405), *VFA*)
 - **Efficient Methods in LLMs** — Low-Rank Adaptation ([*MiLoRA*](https://arxiv.org/abs/2406.09044), [*SeTAR*](https://arxiv.org/abs/2406.12629)); Model Merging & Quantization (*VFA*, [*ImPart*](https://www.arxiv.org/abs/2504.13237)); Model Routing ([*RouterXBench*](https://arxiv.org/abs/2602.11877)); Decoding Methods ([*G2*](https://aclanthology.org/2025.emnlp-main.713/))
 
 <strong style="color: #b91c1c;">News</strong>
@@ -70,7 +70,7 @@ I am a Ph.D. candidate at **Southern University of Science and Technology**, sup
 
 - **SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks**<br>
   Tianyi Wang\*, **Yixia Li\***, Long Li, Yibiao Chen, Shaohan Huang, Yun Chen, Peng Li, Yang Liu, Guanhua Chen<br>
-  *ACL Main, 2026*
+  *ACL Main, 2026* [[paper](https://arxiv.org/abs/2604.08865)][[code](https://github.com/X1AOX1A/SPPO)]
 
 - **Enhancing Large Language Model Reasoning via Selective Critical Token Fine-Tuning**<br>
   Zhiwen Ruan, **Yixia Li**, He Zhu, Yun Chen, Peng Li, Yang Liu, Guanhua Chen<br>
@@ -115,7 +115,7 @@ I am a Ph.D. candidate at **Southern University of Science and Technology**, sup
 ## 📋 Academic Services
 
 **Reviewer for**
-- NeurIPS (**Top Reviewer 2025**)
+- NeurIPS (**Top Reviewer in 2025**)
 - ICML
 - ICLR
 - ARR (ACL, EMNLP, NAACL)
