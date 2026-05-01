@@ -14,13 +14,14 @@ I am a Ph.D. candidate at **Southern University of Science and Technology**, sup
 
 **Research Interests**
 
-- **Agentic Learning** — Experiential Learning; LLM-as-World-Model ([*From Word to World*](https://arxiv.org/abs/2512.18832))
+- **Agentic Learning** — Experiential Learning ([*From Word to World*](https://arxiv.org/abs/2512.18832))
 - **LLM Post-training** — LLM Reasoning ([*SPPO*](https://arxiv.org/abs/2604.08865), [*CFT*](https://arxiv.org/abs/2510.10974)); Multi-Modal & Multi-lingual ([*LayAlign*](https://www.arxiv.org/abs/2502.11405), *VFA*)
 - **Efficient Methods in LLMs** — Low-Rank Adaptation ([*MiLoRA*](https://arxiv.org/abs/2406.09044), [*SeTAR*](https://arxiv.org/abs/2406.12629)); Model Merging & Quantization (*VFA*, [*ImPart*](https://www.arxiv.org/abs/2504.13237)); Model Routing ([*RouterXBench*](https://arxiv.org/abs/2602.11877)); Decoding Methods ([*G2*](https://aclanthology.org/2025.emnlp-main.713/))
 
 <strong style="color: #b91c1c;">News</strong>
 
-- **2026.05** — 5 papers accepted to **ACL 2026 Main Track**. See you in San Diego 🎉.
+- **2026.01** — 1 paper accepted to **ICML 2026**. Congratulations to all authors 🎉.
+- **2026.04** — 5 papers accepted to **ACL 2026 Main Track**. See you in San Diego 🎉.
 - **2026.01** — 2 papers accepted to **ICLR 2026**. Congratulations to all authors 🎉.
 
 
