@@ -68,15 +68,15 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 - **From Word to World: Can Large Language Models be Implicit Text-based World Models?**<br>
   **Yixia Li**, Hongru Wang, Jiahao Qiu, Zhenfei Yin, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, Guanhua Chen, Heng Ji<br>
-  *ACL Main, 2026* [[paper](https://arxiv.org/abs/2512.18832)][[code](https://github.com/X1AOX1A/Word2World)]
+  *ACL Main, 2026* **[Oral]**[[paper](https://arxiv.org/abs/2512.18832)][[code](https://github.com/X1AOX1A/Word2World)]
 
 - **VFA: Empowering Multilingual MLLMs via Vision-Free Adaptation**<br>
   **Yixia Li\***, Yaqing Shi\*, Zhiwen Ruan, Dongdong Zhang, Lingjie Jiang, Shaohan Huang, Yun Chen, Guanhua Chen, Furu Wei<br>
-  *ACL Main, 2026*
+  *ACL Main, 2026* **[Oral]**
 
 - **SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks**<br>
   Tianyi Wang\*, **Yixia Li\***, Long Li, Yibiao Chen, Shaohan Huang, Yun Chen, Peng Li, Yang Liu, Guanhua Chen<br>
-  *ACL Main, 2026* [[paper](https://arxiv.org/abs/2604.08865)][[code](https://github.com/X1AOX1A/SPPO)]
+  *ACL Main, 2026* **[Oral]**[[paper](https://arxiv.org/abs/2604.08865)][[code](https://github.com/X1AOX1A/SPPO)]
 
 - **Enhancing Large Language Model Reasoning via Selective Critical Token Fine-Tuning**<br>
   Zhiwen Ruan, **Yixia Li**, He Zhu, Yun Chen, Peng Li, Yang Liu, Guanhua Chen<br>
