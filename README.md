@@ -20,8 +20,8 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 <strong style="color: #b91c1c;">News</strong>
 
-- **2026.05** — I started my research internship with the Tencent Hunyuan Team.
-- **2026.05** - Three first-author papers were selected as **oral presentations** at ACL 2026 🌟.
+- **2026.05** — I started my research internship with Tencent Hunyuan Team.
+- **2026.05** - Three first-authored papers were selected as **oral presentations** at ACL 2026 🌟.
 - **2026.05** — 1 paper accepted to **ICML 2026**. Congratulations to all authors 🎉.
 - **2026.04** — 5 papers accepted to **ACL 2026 Main Track**. See you in San Diego 🎉.
 - **2026.01** — 2 papers accepted to **ICLR 2026**. Congratulations to all authors 🎉.
