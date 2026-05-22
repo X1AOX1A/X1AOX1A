@@ -10,7 +10,7 @@
 
 ## 👋 About
 
-I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTech)**, supervised by [Dr. Guanhua Chen](https://ghchen.me). I am currently a research intern with the **Hunyuan Group at Tencent**. Prior to this, I was lucky to have interned at **Microsoft Research Asia** and **Huawei**.
+I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTech)**, supervised by [Dr. Guanhua Chen](https://ghchen.me). I am currently a research intern with the **Tencent Hunyuan Team**. Prior to this, I interned at **Microsoft Research Asia** and **Huawei**.
 
 **Research Interests**
 
@@ -20,7 +20,8 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 <strong style="color: #b91c1c;">News</strong>
 
-- **2026.05** — I started my research internship with the Hunyuan Group at Tencent.
+- **2026.05** — I started my research internship with the Tencent Hunyuan Team.
+- **2026.05** - Three first-author papers were selected as **oral presentations** at ACL 2026 🌟.
 - **2026.05** — 1 paper accepted to **ICML 2026**. Congratulations to all authors 🎉.
 - **2026.04** — 5 papers accepted to **ACL 2026 Main Track**. See you in San Diego 🎉.
 - **2026.01** — 2 papers accepted to **ICLR 2026**. Congratulations to all authors 🎉.
@@ -42,8 +43,8 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 ## 🏛️ Research Experience
 
-- **[2026.05 - Now] Tencent** | Hunyuan Group<br>
-  Mentor: [Dr. Mingda Hu](https://www.linkedin.com/in/mindhu/)<br>
+- **[2026.05 - Now] Tencent** | Hunyuan Team<br>
+  Mentor: [Dr. Zenan Xu](https://hi-zenanxu.github.io) & [Dr. Mingda Hu](https://www.linkedin.com/in/mindhu/)<br>
   LLM Post Training, Agentic Learning
 
 - **[2025.06 - 2026.05] Microsoft Research Asia** | GenAI Group<br>
