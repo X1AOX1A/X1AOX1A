@@ -10,7 +10,7 @@
 
 ## 👋 About
 
-I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTech)**, supervised by [Dr. Guanhua Chen](https://ghchen.me). I am currently a research intern with the **Tencent Hunyuan Team**. Prior to this, I interned at **Microsoft Research Asia** and **Huawei**.
+I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTech)**, supervised by [Dr. Guanhua Chen](https://ghchen.me). I am currently a research intern with **Tencent Hunyuan Team**. Prior to this, I interned at **Microsoft Research Asia** and **Huawei**.
 
 **Research Interests**
 
