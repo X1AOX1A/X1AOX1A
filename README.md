@@ -20,44 +20,12 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 <strong style="color: #b91c1c;">News</strong>
 
+- **2026.06** — We are excited to release our survey on Text World Models for LLM-based Agents!
 - **2026.05** — I started my research internship with Tencent Hunyuan Team.
 - **2026.05** - Three first-authored papers were selected as **oral presentations** at ACL 2026 🌟.
 - **2026.05** — 1 paper accepted to **ICML 2026**. Congratulations to all authors 🎉.
 - **2026.04** — 5 papers accepted to **ACL 2026 Main Track**. See you in San Diego 🎉.
 - **2026.01** — 2 papers accepted to **ICLR 2026**. Congratulations to all authors 🎉.
-
-
-
-## 🎓 Education
-
-- **[2023 - 2027] Southern University of Science and Technology**<br>
-  Ph.D. in Mathematics｜Supervisor: [Dr. Guanhua Chen](https://ghchen.me)
-
-- **[2021 - 2023] The Hong Kong Polytechnic University**<br>
-  M.Sc. in Computer Science with Distinction<br>
-
-- **[2017 - 2021] Guangzhou University**<br>
-  B.Sc. in Statistics<br>
-
-
-
-## 🏛️ Research Experience
-
-- **[2026.05 - Now] Tencent** | Hunyuan Team<br>
-  Mentor: [Dr. Zenan Xu](https://hi-zenanxu.github.io) & [Dr. Mingda Hu](https://www.linkedin.com/in/mindhu/)<br>
-  LLM Post Training, Agentic Learning
-
-- **[2025.06 - 2026.05] Microsoft Research Asia** | GenAI Group<br>
-  Mentor: [Dr. Dongdong Zhang](https://www.microsoft.com/en-us/research/people/dozhang/)<br>
-  Efficient Large Language Models, Agentic Learning
-
-- **[2022.08 - 2023.07] PolyU** | SMART Lab<br>
-  Mentor: [Prof. Jing Li](http://www4.comp.polyu.edu.hk/~jing1li/)<br>
-  Social Media Opinion Polling, Cantonese Medical Dialogue System
-
-- **[2022.06 - 2022.08] Huawei**<br>
-  Mentor: [Jingyuan Yang](https://scholar.google.com/citations?hl=en&user=5j-zbVkAAAAJ)<br>
-  Extractive Document Q&A, Knowledge-enhanced Dialogue System, Chinese ASR Entity Correction
 
 
 
@@ -67,6 +35,10 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 **2026**
 
+
+- **Bridging the Agent-World Gap: Text World Models for LLM-based Agents**<br>
+  **Yixia Li**, Hongru Wang, Peng Lai, Zhiwen Ruan, He Zhu, Youxin Zhu, Ganlong Zhao, Minda Hu, Yun Chen, Sibei Yang, Peng Li, Jeff Z. Pan, Jia Pan, Guanhua Chen, Yang Liu, Guanbin Li<br>
+  *Under Review, 2026* [[paper](https://arxiv.org/abs/2606.09032)][[code](https://github.com/sustech-nlp/awesome-text-world-models)]
 - **From Word to World: Can Large Language Models be Implicit Text-based World Models?**<br>
   **Yixia Li**, Hongru Wang, Jiahao Qiu, Zhenfei Yin, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, Guanhua Chen, Heng Ji<br>
   *ACL Main, 2026* **[Oral, Top10%]**[[paper](https://arxiv.org/abs/2512.18832)][[code](https://github.com/X1AOX1A/Word2World)]
@@ -116,6 +88,37 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
   *TNNLS, 2024* [[paper](https://arxiv.org/abs/2306.06851)][[code](https://github.com/X1AOX1A/UniPoll)]
 
 
+
+## 🏛️ Research Experience
+
+- **[2026.05 - Now] Tencent** | Hunyuan Team<br>
+  Mentor: [Dr. Zenan Xu](https://hi-zenanxu.github.io) & [Dr. Mingda Hu](https://www.linkedin.com/in/mindhu/)<br>
+  LLM Post Training, Agentic Learning
+
+- **[2025.06 - 2026.05] Microsoft Research Asia** | GenAI Group<br>
+  Mentor: [Dr. Dongdong Zhang](https://www.microsoft.com/en-us/research/people/dozhang/)<br>
+  Efficient Large Language Models, Agentic Learning
+
+- **[2022.08 - 2023.07] PolyU** | SMART Lab<br>
+  Mentor: [Prof. Jing Li](http://www4.comp.polyu.edu.hk/~jing1li/)<br>
+  Social Media Opinion Polling, Cantonese Medical Dialogue System
+
+- **[2022.06 - 2022.08] Huawei**<br>
+  Mentor: [Jingyuan Yang](https://scholar.google.com/citations?hl=en&user=5j-zbVkAAAAJ)<br>
+  Extractive Document Q&A, Knowledge-enhanced Dialogue System, Chinese ASR Entity Correction
+
+
+
+## 🎓 Education
+
+- **[2023 - 2027] Southern University of Science and Technology**<br>
+  Ph.D. in Mathematics｜Supervisor: [Dr. Guanhua Chen](https://ghchen.me)
+
+- **[2021 - 2023] The Hong Kong Polytechnic University**<br>
+  M.Sc. in Computer Science with Distinction<br>
+
+- **[2017 - 2021] Guangzhou University**<br>
+  B.Sc. in Statistics<br>
 
 
 
