@@ -16,7 +16,7 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 - **Agentic Learning** — Experiential Learning ([*From Word to World*](https://arxiv.org/abs/2512.18832))
 - **LLM Post-training** — LLM Reasoning ([*SPPO*](https://arxiv.org/abs/2604.08865), [*CFT*](https://arxiv.org/abs/2510.10974)); Multi-Modal & Multi-lingual ([*LayAlign*](https://www.arxiv.org/abs/2502.11405), *VFA*)
-- **Efficient Methods in LLMs** — Low-Rank Adaptation ([*MiLoRA*](https://arxiv.org/abs/2406.09044), [*SeTAR*](https://arxiv.org/abs/2406.12629)); Model Merging & Quantization (*VFA*, [*ImPart*](https://www.arxiv.org/abs/2504.13237)); Model Routing ([*RouterXBench*](https://arxiv.org/abs/2602.11877)); Decoding Methods ([*G2*](https://aclanthology.org/2025.emnlp-main.713/))
+- **Efficient Methods in LLMs** — Low-Rank Adaptation ([*MiLoRA*](https://arxiv.org/abs/2406.09044), [*SeTAR*](https://arxiv.org/abs/2406.12629)); Model Merging & Quantization ([*VFA*](https://aclanthology.org/2026.acl-long.407), [*ImPart*](https://www.arxiv.org/abs/2504.13237)); Model Routing ([*RouterXBench*](https://arxiv.org/abs/2602.11877)); Decoding Methods ([*G2*](https://aclanthology.org/2025.emnlp-main.713/))
 
 <strong style="color: #b91c1c;">News</strong>
 
@@ -41,15 +41,15 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
   *Under Review, 2026* [[paper](https://arxiv.org/abs/2606.09032)][[code](https://github.com/sustech-nlp/awesome-text-world-models)]
 - **From Word to World: Can Large Language Models be Implicit Text-based World Models?**<br>
   **Yixia Li**, Hongru Wang, Jiahao Qiu, Zhenfei Yin, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, Guanhua Chen, Heng Ji<br>
-  *ACL Main, 2026* **[Oral, Top10%]**[[paper](https://arxiv.org/abs/2512.18832)][[code](https://github.com/X1AOX1A/Word2World)]
+  *ACL Main, 2026* **[Oral, Top4%]**[[paper](https://arxiv.org/abs/2512.18832)][[code](https://github.com/X1AOX1A/Word2World)]
 
 - **VFA: Empowering Multilingual MLLMs via Vision-Free Adaptation**<br>
   **Yixia Li\***, Yaqing Shi\*, Zhiwen Ruan, Dongdong Zhang, Lingjie Jiang, Shaohan Huang, Yun Chen, Guanhua Chen, Furu Wei<br>
-  *ACL Main, 2026* **[Oral, Top10%]**
+  *ACL Main, 2026* **[Oral, Top4%]**[[paper](https://aclanthology.org/2026.acl-long.407)][[code](https://github.com/sustech-nlp/VFA)]
 
 - **SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks**<br>
   Tianyi Wang\*, **Yixia Li\***, Long Li, Yibiao Chen, Shaohan Huang, Yun Chen, Peng Li, Yang Liu, Guanhua Chen<br>
-  *ACL Main, 2026* **[Oral, Top10%]**[[paper](https://arxiv.org/abs/2604.08865)][[code](https://github.com/X1AOX1A/SPPO)]
+  *ACL Main, 2026* **[Oral, Top4%]**[[paper](https://arxiv.org/abs/2604.08865)][[code](https://github.com/X1AOX1A/SPPO)]
 
 - **Enhancing Large Language Model Reasoning via Selective Critical Token Fine-Tuning**<br>
   Zhiwen Ruan, **Yixia Li**, He Zhu, Yun Chen, Peng Li, Yang Liu, Guanhua Chen<br>
@@ -129,6 +129,7 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 - ICML
 - ICLR
 - ARR (ACL, EMNLP, NAACL)
+- COLM
 - Neural Networks
 - TNNLS
 - NLPCC
