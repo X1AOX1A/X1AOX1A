@@ -20,6 +20,7 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 <strong style="color: #b91c1c;">News</strong>
 
+- **2026.08** — We are excited to release our survey on Theory of Agent!
 - **2026.06** — We are excited to release our survey on Text World Models for LLM-based Agents!
 - **2026.05** — I started my research internship with Tencent Hunyuan Team.
 - **2026.05** - Three first-authored papers were selected as **oral presentations** at ACL 2026 🌟.
@@ -35,6 +36,9 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 **2026**
 
+- **Theory of Agent: The Science of Internalization and Externalization for LLM-based Agents**<br>
+  Zihao Cheng\*, **Yixia Li\***, Shengbin Yue\*, Yuheng Lu\*, Yuli Qiu, Yanzhi Tian, Haohuinan Zhang, Cheng Qian, Hongru WANG, Guanhua Chen, Zeming Liu, Yuhang Guo, zhongyu wei, Ke Gu, Liang Li, Jeff Z. Pan, Amos Storkey, Yunhong Wang, Haifeng Wang<br>
+  *Under Review, 2026* [[paper](https://openreview.net/forum?id=LfindYqyNW)][[code](https://github.com/BUAA-IRIP-LLM/Awesome-LLM-Powered-Agent)]
 
 - **Bridging the Agent-World Gap: Text World Models for LLM-based Agents**<br>
   **Yixia Li**, Hongru Wang, Peng Lai, Zhiwen Ruan, He Zhu, Youxin Zhu, Ganlong Zhao, Minda Hu, Yun Chen, Sibei Yang, Peng Li, Jeff Z. Pan, Jia Pan, Guanhua Chen, Yang Liu, Guanbin Li<br>
@@ -93,7 +97,7 @@ I am a Ph.D. candidate at **Southern University of Science and Technology (SUSTe
 
 - **[2026.05 - Now] Tencent** | Hunyuan Team<br>
   Mentor: [Dr. Zenan Xu](https://hi-zenanxu.github.io) & [Dr. Mingda Hu](https://www.linkedin.com/in/mindhu/)<br>
-  LLM Post Training, Agentic Learning
+  LLM Post Training for Hy3, Hy4, Agentic Learning
 
 - **[2025.06 - 2026.05] Microsoft Research Asia** | GenAI Group<br>
   Mentor: [Dr. Dongdong Zhang](https://www.microsoft.com/en-us/research/people/dozhang/)<br>
